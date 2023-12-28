@@ -1,10 +1,7 @@
 # :boxing_glove: Hi! I'm Rodrigo
+a Graphic Designer, Illustrator and Developer currently based in Spain.
 
 ![Designer](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)
-
-# 💫 About Me:
-I'm Rodrigo, a Graphic Designer, Illustrator and Developer currently based in Spain.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rodigorosalesmoya) 
